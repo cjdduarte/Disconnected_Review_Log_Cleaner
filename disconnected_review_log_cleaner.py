@@ -29,7 +29,7 @@ def cleanDisconnectedReviewLogs():
     mw.progress.finish()
     mw.requireReset()  # New
 
-    showInfo(f"Removed {count} disconnected review log entries.")
+    showInfo(f"Removed {count} disconnected review log entries successfully.")
 
 # Add to Tools menu
 menu_label = 'Clean Disconnected Review Logs'

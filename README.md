@@ -27,5 +27,6 @@ After deletion, a full synchronization is recommended if you use Anki on multipl
 <b> #### Change Log:</b>
 
 <ul>
+  <li>v1.1 - 2024-08-19 - Improved success message after cleaning logs.</li>
   <li>v1.0 - 2023-08-19 - Initial Release</li>
 </ul>
