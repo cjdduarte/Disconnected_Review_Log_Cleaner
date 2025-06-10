@@ -1,0 +1,22 @@
+{
+    "translation_maps": {
+        "en": {
+            "menu_label": "Cleanup Deleted Card Reviews",
+            "no_disconnected_found": "No deleted card reviews found.",
+            "confirmation_message": "There are {count} review entries from deleted cards. If cleaned, a full resynchronization will be required afterward. Do you wish to continue?",
+            "success_message": "Removed {count} deleted card reviews successfully."
+        },
+        "pt_BR": {
+            "menu_label": "Limpar Revisões de Cartões Excluídos",
+            "no_disconnected_found": "Nenhuma revisão de cartão excluído encontrada.",
+            "confirmation_message": "Existem {count} revisões de cartões que foram excluídos. Se limpas, uma ressincronização completa será necessária após. Deseja continuar?",
+            "success_message": "Removidas {count} revisões de cartões excluídos com sucesso."
+        },
+        "es": {
+            "menu_label": "Limpiar Revisiones de Tarjetas Eliminadas",
+            "no_disconnected_found": "No se encontraron revisiones de tarjetas eliminadas.",
+            "confirmation_message": "Hay {count} revisiones de tarjetas que fueron eliminadas. Si se limpian, será necesaria una resincronización completa después. ¿Desea continuar?",
+            "success_message": "Se eliminaron {count} revisiones de tarjetas eliminadas exitosamente."
+        }
+    }
+} 
